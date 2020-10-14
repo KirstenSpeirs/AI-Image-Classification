@@ -1,0 +1,71 @@
+@relation 'planeVScar-weka.filters.unsupervised.instance.imagefilter.SimpleColorHistogramFilter-DC:/Users/Kirsty/Documents/Eclipse workspace/Dissertation v4/newImage'
+
+@attribute filename string
+@attribute 'RGB Color Histogram0' numeric
+@attribute 'RGB Color Histogram1' numeric
+@attribute 'RGB Color Histogram2' numeric
+@attribute 'RGB Color Histogram3' numeric
+@attribute 'RGB Color Histogram4' numeric
+@attribute 'RGB Color Histogram5' numeric
+@attribute 'RGB Color Histogram6' numeric
+@attribute 'RGB Color Histogram7' numeric
+@attribute 'RGB Color Histogram8' numeric
+@attribute 'RGB Color Histogram9' numeric
+@attribute 'RGB Color Histogram10' numeric
+@attribute 'RGB Color Histogram11' numeric
+@attribute 'RGB Color Histogram12' numeric
+@attribute 'RGB Color Histogram13' numeric
+@attribute 'RGB Color Histogram14' numeric
+@attribute 'RGB Color Histogram15' numeric
+@attribute 'RGB Color Histogram16' numeric
+@attribute 'RGB Color Histogram17' numeric
+@attribute 'RGB Color Histogram18' numeric
+@attribute 'RGB Color Histogram19' numeric
+@attribute 'RGB Color Histogram20' numeric
+@attribute 'RGB Color Histogram21' numeric
+@attribute 'RGB Color Histogram22' numeric
+@attribute 'RGB Color Histogram23' numeric
+@attribute 'RGB Color Histogram24' numeric
+@attribute 'RGB Color Histogram25' numeric
+@attribute 'RGB Color Histogram26' numeric
+@attribute 'RGB Color Histogram27' numeric
+@attribute 'RGB Color Histogram28' numeric
+@attribute 'RGB Color Histogram29' numeric
+@attribute 'RGB Color Histogram30' numeric
+@attribute 'RGB Color Histogram31' numeric
+@attribute 'RGB Color Histogram32' numeric
+@attribute 'RGB Color Histogram33' numeric
+@attribute 'RGB Color Histogram34' numeric
+@attribute 'RGB Color Histogram35' numeric
+@attribute 'RGB Color Histogram36' numeric
+@attribute 'RGB Color Histogram37' numeric
+@attribute 'RGB Color Histogram38' numeric
+@attribute 'RGB Color Histogram39' numeric
+@attribute 'RGB Color Histogram40' numeric
+@attribute 'RGB Color Histogram41' numeric
+@attribute 'RGB Color Histogram42' numeric
+@attribute 'RGB Color Histogram43' numeric
+@attribute 'RGB Color Histogram44' numeric
+@attribute 'RGB Color Histogram45' numeric
+@attribute 'RGB Color Histogram46' numeric
+@attribute 'RGB Color Histogram47' numeric
+@attribute 'RGB Color Histogram48' numeric
+@attribute 'RGB Color Histogram49' numeric
+@attribute 'RGB Color Histogram50' numeric
+@attribute 'RGB Color Histogram51' numeric
+@attribute 'RGB Color Histogram52' numeric
+@attribute 'RGB Color Histogram53' numeric
+@attribute 'RGB Color Histogram54' numeric
+@attribute 'RGB Color Histogram55' numeric
+@attribute 'RGB Color Histogram56' numeric
+@attribute 'RGB Color Histogram57' numeric
+@attribute 'RGB Color Histogram58' numeric
+@attribute 'RGB Color Histogram59' numeric
+@attribute 'RGB Color Histogram60' numeric
+@attribute 'RGB Color Histogram61' numeric
+@attribute 'RGB Color Histogram62' numeric
+@attribute 'RGB Color Histogram63' numeric
+@attribute class {PLANE,CAR}
+
+@data
+plane1047.jpg,19,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,8,34,1,0,0,0,255,0,0,0,0,0,0,0,0,0,0,2,0,0,0,5,153,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,13,33,PLANE

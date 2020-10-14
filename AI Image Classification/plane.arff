@@ -1,0 +1,5 @@
+@relation planeVScar
+@attribute filename string
+@attribute class {PLANE,CAR}
+@data
+plane1047.jpg,PLANE

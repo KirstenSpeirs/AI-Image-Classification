@@ -1,0 +1,89 @@
+@relation 'planeVScar-weka.filters.unsupervised.instance.imagefilter.SimpleColorHistogramFilter-DC:\\Users\\Kirsty\\Documents\\Eclipse workspace\\Dissertation v1\\images-weka.filters.unsupervised.attribute.Remove-R1'
+
+@attribute 'RGB Color Histogram0' numeric
+@attribute 'RGB Color Histogram1' numeric
+@attribute 'RGB Color Histogram2' numeric
+@attribute 'RGB Color Histogram3' numeric
+@attribute 'RGB Color Histogram4' numeric
+@attribute 'RGB Color Histogram5' numeric
+@attribute 'RGB Color Histogram6' numeric
+@attribute 'RGB Color Histogram7' numeric
+@attribute 'RGB Color Histogram8' numeric
+@attribute 'RGB Color Histogram9' numeric
+@attribute 'RGB Color Histogram10' numeric
+@attribute 'RGB Color Histogram11' numeric
+@attribute 'RGB Color Histogram12' numeric
+@attribute 'RGB Color Histogram13' numeric
+@attribute 'RGB Color Histogram14' numeric
+@attribute 'RGB Color Histogram15' numeric
+@attribute 'RGB Color Histogram16' numeric
+@attribute 'RGB Color Histogram17' numeric
+@attribute 'RGB Color Histogram18' numeric
+@attribute 'RGB Color Histogram19' numeric
+@attribute 'RGB Color Histogram20' numeric
+@attribute 'RGB Color Histogram21' numeric
+@attribute 'RGB Color Histogram22' numeric
+@attribute 'RGB Color Histogram23' numeric
+@attribute 'RGB Color Histogram24' numeric
+@attribute 'RGB Color Histogram25' numeric
+@attribute 'RGB Color Histogram26' numeric
+@attribute 'RGB Color Histogram27' numeric
+@attribute 'RGB Color Histogram28' numeric
+@attribute 'RGB Color Histogram29' numeric
+@attribute 'RGB Color Histogram30' numeric
+@attribute 'RGB Color Histogram31' numeric
+@attribute 'RGB Color Histogram32' numeric
+@attribute 'RGB Color Histogram33' numeric
+@attribute 'RGB Color Histogram34' numeric
+@attribute 'RGB Color Histogram35' numeric
+@attribute 'RGB Color Histogram36' numeric
+@attribute 'RGB Color Histogram37' numeric
+@attribute 'RGB Color Histogram38' numeric
+@attribute 'RGB Color Histogram39' numeric
+@attribute 'RGB Color Histogram40' numeric
+@attribute 'RGB Color Histogram41' numeric
+@attribute 'RGB Color Histogram42' numeric
+@attribute 'RGB Color Histogram43' numeric
+@attribute 'RGB Color Histogram44' numeric
+@attribute 'RGB Color Histogram45' numeric
+@attribute 'RGB Color Histogram46' numeric
+@attribute 'RGB Color Histogram47' numeric
+@attribute 'RGB Color Histogram48' numeric
+@attribute 'RGB Color Histogram49' numeric
+@attribute 'RGB Color Histogram50' numeric
+@attribute 'RGB Color Histogram51' numeric
+@attribute 'RGB Color Histogram52' numeric
+@attribute 'RGB Color Histogram53' numeric
+@attribute 'RGB Color Histogram54' numeric
+@attribute 'RGB Color Histogram55' numeric
+@attribute 'RGB Color Histogram56' numeric
+@attribute 'RGB Color Histogram57' numeric
+@attribute 'RGB Color Histogram58' numeric
+@attribute 'RGB Color Histogram59' numeric
+@attribute 'RGB Color Histogram60' numeric
+@attribute 'RGB Color Histogram61' numeric
+@attribute 'RGB Color Histogram62' numeric
+@attribute 'RGB Color Histogram63' numeric
+@attribute class {PLANE,CAR}
+
+@data
+87,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,84,146,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,107,0,0,0,255,165,0,0,0,194,94,0,0,0,0,0,0,0,0,0,6,8,0,0,0,27,141,PLANE
+63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78,0,0,0,15,21,0,0,0,0,0,0,0,0,0,0,28,0,0,0,2,23,0,0,0,27,75,0,0,0,0,0,46,0,0,0,2,3,0,0,0,1,96,0,0,0,255,67,PLANE
+83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,0,0,0,57,84,51,0,0,7,99,0,0,0,0,0,2,0,0,0,255,61,0,0,68,200,37,0,0,0,0,0,0,0,0,0,69,0,0,0,42,13,3,0,0,1,0,0,PLANE
+82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,159,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,16,0,0,0,27,255,0,0,0,18,3,0,0,0,0,0,0,0,0,0,0,13,0,0,0,26,109,PLANE
+51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,0,0,49,118,0,0,0,1,5,0,0,0,0,0,12,1,0,0,1,26,0,0,0,65,68,2,0,0,1,255,0,0,0,0,0,1,0,0,0,0,17,0,0,0,3,160,PLANE
+33,12,0,0,1,7,0,0,0,0,0,0,0,0,0,0,18,1,0,0,46,255,0,0,0,6,1,0,0,0,0,0,0,0,0,0,3,19,0,0,0,29,48,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18,32,PLANE
+38,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,1,0,0,25,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,0,0,0,11,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,255,0,0,0,58,12,PLANE
+221,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,160,0,0,0,126,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,31,0,0,13,255,214,0,0,0,54,0,0,0,0,0,5,0,0,0,40,206,93,0,0,19,171,11,PLANE
+65,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,38,1,0,0,255,197,2,0,8,2,0,0,0,0,0,0,0,0,0,0,3,26,0,0,4,62,113,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,8,75,PLANE
+198,7,0,0,8,6,2,0,0,0,0,0,0,0,0,0,17,0,0,0,73,121,3,0,0,7,0,0,0,0,0,0,0,0,0,0,12,11,0,0,0,65,255,2,0,0,88,19,0,0,0,0,0,0,0,0,0,0,25,0,0,0,103,179,PLANE
+88,2,0,0,1,19,0,0,0,0,0,0,0,0,0,0,8,0,0,0,22,255,8,0,0,5,15,0,0,0,0,0,0,0,0,0,0,13,0,0,0,62,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,0,0,43,19,CAR
+219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,22,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,CAR
+68,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,255,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,241,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,35,CAR
+79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,255,3,0,0,2,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,22,188,13,0,0,1,5,0,0,0,0,0,0,0,0,0,0,4,0,0,0,21,59,CAR
+109,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,241,39,0,0,0,36,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,255,8,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,10,CAR
+227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,255,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,9,135,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7,0,0,0,11,35,CAR
+241,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,134,1,0,0,33,255,4,0,0,4,8,0,0,0,0,0,1,0,0,0,2,31,0,0,0,40,227,1,0,0,2,4,0,0,0,0,0,0,0,0,0,0,11,0,0,0,2,15,CAR
+255,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,75,0,0,0,2,28,0,0,0,0,1,0,0,0,0,0,15,3,0,0,0,7,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,CAR
+73,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,22,0,0,9,255,3,0,0,0,1,0,0,0,0,0,7,0,0,0,0,120,14,0,0,19,215,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,116,3,0,0,8,46,CAR
+48,4,0,0,3,5,0,0,0,0,0,0,0,0,0,0,37,13,0,0,32,255,35,0,0,1,23,0,0,0,0,0,0,0,0,0,0,31,11,0,0,6,134,19,0,0,0,5,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,36,CAR
